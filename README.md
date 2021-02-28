@@ -6,7 +6,7 @@
 
 
 ## :scroll: Description
-This app is parte of the Android Dev Challenges for Compose. It shows a list of puppies and detailed
+This app is part of the Android Dev Challenges for Compose. It shows a list of puppies and detailed
 information of each one.
 
 
