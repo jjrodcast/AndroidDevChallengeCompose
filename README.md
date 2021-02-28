@@ -11,7 +11,7 @@ information of each one.
 
 
 ## :bulb: Motivation and Context
-Compose is very simple to use and flexible to create very custom interfaces.
+Compose is very simple to use and flexible to create very custom interfaces. In this simple application you will see a puppy adoption screens.
 
 
 ## :camera_flash: Screenshots
